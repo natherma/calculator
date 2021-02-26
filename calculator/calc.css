@@ -1,0 +1,152 @@
+body
+{
+   background: #101820ff;
+   font-family: 'Roboto Mono', monospace;
+   display: flex;
+   height: 100vh;
+   justify-content: center;
+   align-items: center;
+}
+.container
+{
+    background-color:#f1faee;
+    height: 600px;
+    width: 450px;
+    border: 1px solid black;
+    transition: box-shadow ease-in-out 0.3s;
+}
+.container:hover
+{
+   box-shadow: #4CA1AF 0px 5px 10px;
+}
+#cal-p
+{
+    background-color:white;
+    min-height: 85.5px;
+    max-height: 85.5px;
+    text-align: right;
+    font-size: 2rem;
+    color: #264653;
+}
+#cal-q
+{
+   background-color:white;
+    min-height: 85.5px;
+    max-height: 85.5px;
+    text-align: right;
+    font-size: 2rem;
+    color: #264653;
+}
+#r1 button
+{
+    text-align: center;
+    min-height: 85.5px;
+    max-height: 85.5px;
+    background-color:#ffe062;
+}
+.col-3
+{
+    border: 0.5px solid black;
+}
+.col-6
+{
+    border: 0.5px solid black;
+}
+
+#r2 button
+{
+    text-align: center;
+    min-height: 85.5px;
+    max-height: 85.5px;
+    background-color:#181b22;
+    color:white;
+}
+
+button {
+    color: #293241;
+}
+
+#r1 button:hover
+{
+    background-color:#ffd500;
+}
+
+#r2 #co 
+{
+  background-color: #ee6c4d;
+}
+#r2 #co:hover 
+{
+  background-color: coral;
+}
+#r2 #c1 
+{
+  background-color: #ffe062;
+}
+#r2 #c1:hover 
+{
+  background-color: #ffd500;
+}
+#r2 #c3 
+{
+  background-color: #ffe062;
+}
+#r2 #c3:hover 
+{
+  background-color: #ffd500;
+}
+#r2 #c2
+{
+  background-color: #ffe062;
+}
+#r2 #c2:hover 
+{
+  background-color: #ffd500;
+}
+
+ #r2 #n0:hover
+ {
+    background-color:#264653;
+ }
+ 
+ #r2 #n1:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n2:hover
+ {
+    background-color:#264653;
+ }
+ 
+ #r2 #n3:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n4:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n5:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n6:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n7:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n8:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n9:hover
+ {
+    background-color:#264653;
+ }
+ #r2 #n:hover
+ {
+    background-color:#264653;
+ }
